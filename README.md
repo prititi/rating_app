@@ -1,4 +1,1 @@
-<<<<<<< HEAD
-=======
-
->>>>>>> 3f554b59e397776031e6d4eb7742ee3b948abbc0
+<h1>Rating app using websocket 🎉🎉</h1>
