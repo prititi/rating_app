@@ -52,7 +52,7 @@ function givePreference (index){
 };
 
 // 7 WEBSOCKET
-const ws = new WebSocket('ws://localhost:8080');
+const ws = new WebSocket('wss://rating-app.onrender.com/socket');
 // 8 OPEN EVENT
 ws.addEventListener('open', ()=>{
     console.log('Connection opened.');
